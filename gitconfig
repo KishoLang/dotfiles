@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = aklangenberg@gmail.com
+	name = Arnd-Kisho Langenberg
